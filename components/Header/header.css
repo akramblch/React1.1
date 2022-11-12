@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header {
+    padding: 20px 0;
+    background-color: burlywood;
+    background-size: cover;
+}
+
+.header_title {
+    margin-right: 30px;
+}
+
+.header_menu {
+    display: flex;
+    column-gap: 20px;
+    align-items: center;
+    list-style: none;
+}
+
+.header_nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-right: 150px;
+    margin-left: 100px;
+}
+
+.header_item {
+    font-family: 'Roboto';
+    font-size: normal;
+    font-weight: 400px;
+    font-size: 12px;
+    line-height: 21px;
+    letter-spacing: 1.7px;
+    text-transform: uppercase;
+    color: black;
+}
+

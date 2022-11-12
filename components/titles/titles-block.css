@@ -1,0 +1,22 @@
+.Title {
+    width: 461px;
+    position: absolute;
+    text-align: center;
+    background-color: aliceblue;
+    margin-top: 30px;
+    /* justify-content: center; */
+    margin-left: 539px;
+}
+.title_up {
+    padding:8px 62px 11px;
+    font-size: 26px;
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.title_down {
+    font-size: 16px;
+    font-weight: 400;
+    font-family: Arial, Helvetica, sans-serif;
+    opacity: 0.6;
+    padding: 0 50px 11px;
+}

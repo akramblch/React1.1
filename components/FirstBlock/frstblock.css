@@ -1,0 +1,23 @@
+.home1 {
+    height: 454px;
+    width: 452px;
+}
+
+.home2 {
+    height: 454px;
+    width: 452px;
+}
+
+.home3 {
+    height: 454px;
+    width: 452px;
+}
+
+.all-imgs {
+    gap: 40px;
+    margin-top: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+} 
